@@ -8,7 +8,7 @@ The goal of this assignment is to practice developing and evaluating sampling ma
 
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
 
-1.	In two to three sentences, describe the purpose of your survey
+1.	In two to three sentences, describe the purpose of your survey.
 2.	Describe your target population, sampling frame, sampling units, and overall sampling strategy.
 3.	Write a 5-10 question survey to address your chosen scenario below.
 
