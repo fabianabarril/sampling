@@ -40,30 +40,30 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The goal of this survey is to figure out why many lower-level employees are leaving the company. By collecting feedback, we can highlight specific problems, like low pay or poor management, and recommend changes to make employees happier so they stay with the company longer.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: current entry- or lower-level employees, plus people who held those jobs but left within the last six months.
+Sampling Frame: the Human Resources (HR) department's list of all active employees and records for people who recently quit.
+Sampling Units: each individual person who is either an active employee or a recent former employee.
+Overall Sampling Strategy: I will use a Stratified Random Sample. I'll divide the population into groups (strata) based on which department they work in (like Sales, Engineering, etc.) and whether they are current or former employees. Then, I'll randomly pick a certain number of people from each group. This makes sure I get feedback from every major department and from the people who are currently here as well as the people who left.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Overall, how happy were/are you with your job experience here? (Rate 1 to 5: 1=Very Unhappy, 5=Very Happy)
+2. How satisfied were/are you with your pay (salary/wages) and benefits? (Rate 1 to 5: 1=Very Unhappy, 5=Very Happy)
+3. Do you feel you have/had good chances for promotion or moving up in your career here? (Rate 1 to 5: 1=Not at all, 5=Completely)
+4. How helpful and effective is/was your direct manager? (Rate 1 to 5: 1=Very Poor, 5=Very Good)
+5. What is the single most important thing the company should change to keep more lower-level employees? (Write your answer)
+6. [If you recently left the company]: What was the main reason you quit? (Select one: Pay/Better Offer / No Growth / Manager Issues / Work-Life Balance / Company Culture / Other)
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +71,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: this was a multi-step, probability-based sample where everyone in the target group had a known chance of being selected. They used the stratification process to make sure the sample covered different parts of the country evenly.
+2. Sample size:	13,010 people were interviewed
+3. Target population: all people in Canada, aged 15 and older, who live in one of the ten provinces, but not the ones that live in institutions like hospitals or nursing homes or military bases
+4. Sampling frame: the sample was selected using the most recent list of households from the Labour Force Survey (LFS) sampling frame. Think of this as the main directory or list they used to pick the houses to call.
+5. Survey mode(s): data was collected mainly over the phone using Computer-Assisted Telephone Interviewing (CATI). In some areas, they used Computer-Assisted Personal Interviewing (CAPI), which means an interviewer met the person face-to-face.
+6. Timeline : the interviewers collected the data over a full year, from January 2018 through December 2018
+7. Response rate: half of the eligible people contacted actually completed the survey: the rate was 50.6%.
+8. Weights: statistical weights were applied to the data. These are adjustment factors used to make the 13,010 people who responded accurately represent the millions of people in the entire Canadian population. They help correct for people who didn't respond or groups that were missed by the sampling frame.
+9. Data processing: involved all the steps to turn raw answers into usable data, including coding (turning text answers into categories), editing (checking for mistakes), and imputing (filling in missing information).
+10. Cleaning, imputation, etc: imputation was specifically used to fill in missing values, especially for money-related questions like income and donation amounts. They used other records with similar characteristics (donor imputation) or general rules (deterministic imputation) to fill in the blanks.
+11. Sources of error: Besides the usual sampling error (since it's only a sample, not everyone), the survey had non-sampling errors. These include: people not answering (non-response error), the list not covering everyone (coverage error), and mistakes in how questions were asked or answered (measurement error).
+12. Limitations, known biases, etc: A few known issues are: people might over-report positive things like volunteering (social desirability bias), people might misremember how much they gave or volunteered (recall bias), and the results don't apply to people living in the territories or institutions.
+13. Link to documentation and any additional sources used: The information was derived from the provided document: 2018 General Social Survey on Giving, Volunteering and Participating (GSS 33) Public Use Microdata File (PUMF) User Guide.
 ```
 
 ## Rubric
